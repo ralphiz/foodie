@@ -8,6 +8,7 @@ header {
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 0.85em;
+	padding: 5px;
 }
 
 #info {
@@ -47,6 +48,12 @@ nav li {
 	font-size: 0.65em;
 	line-height: 1.5em;
 }
+
+ul.listings {
+    margin-top: -3px;
+    line-height: 1.5em;
+}
+
 
 a {
 	text-decoration: none;
