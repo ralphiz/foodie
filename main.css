@@ -11,6 +11,11 @@ header {
 	padding: 5px;
 }
 
+#profile-pic {
+	height: 230px;
+	width: 230px;
+}
+
 #info {
 	font-family: 'Droid Sans Mono';
 	color: #FF6666;

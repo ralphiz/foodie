@@ -1,0 +1,10 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  nav {
+    background-color: #FFF;
+    text-align: center;
+    word-spacing: 1.75em;
+    letter-spacing: 0.15em;
+    padding: 10px;
+    margin-left: -132px;
+  }
+}
